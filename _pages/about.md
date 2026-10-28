@@ -34,18 +34,18 @@ I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of 
 
 ## Publications
 
-(\* Equal first-author order not indicated; the first-author papers below are marked.)
+Papers marked with (*) are first-author papers.
 
 **First-author papers**
 
-1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv)
-   - Junteng Liu\*, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (*) (2025, arXiv)
+   - Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
 
-2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, arXiv)
-   - Junteng Liu\*, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
+2. **On the Perception Bottleneck of VLMs for Chart Understanding** (*) (2025, arXiv)
+   - Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
 
-3. **On the Universal Truthfulness Hyperplane Inside LLMs**, EMNLP 2024
-   - Junteng Liu\*, Shiqi Chen, Yu Cheng, Junxian He.
+3. **On the Universal Truthfulness Hyperplane Inside LLMs** (*), EMNLP 2024
+   - Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He.
 
 **Co-authored papers**
 
